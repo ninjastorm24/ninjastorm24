@@ -17,19 +17,19 @@
 ## ⚡ Tech Stack  
 
 ### 🚀 Frontend  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)  
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) 
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js) 
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white) 
 ![ShadCN](https://img.shields.io/badge/-Shadcn/UI-000?style=flat)  
 
 ### ⚙️ Backend  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) 
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
 
 ### 📊 Currently Learning  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
 ![NLP](https://img.shields.io/badge/-NLP-FF6F00?style=flat&logo=apache-spark&logoColor=white)  
 
 ---
